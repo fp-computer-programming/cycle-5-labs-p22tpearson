@@ -1,5 +1,4 @@
-# Author TJP 10/25/21
-import math
+çimport math
 import time
 
 start_time = time.time_ns()
